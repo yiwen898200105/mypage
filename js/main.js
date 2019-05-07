@@ -16,10 +16,11 @@ $('.slider').slick({
 });
 
 //chart
+
 $(document).ready(function(){
-        		$('.html').animate({width:'80%'},2000);
-        		$('.css').animate({width:'75%'},2000);
-        		$('.js').animate({width:'50%'},2000);
-        		$('.mysql').animate({width:'35%'},2000);
-        		$('.bootstrap').animate({width:'40%'},2000);
-        	});
+		$('.html').animate({width:'80%'},2000);
+		$('.css').animate({width:'75%'},2000);
+		$('.js').animate({width:'50%'},2000);
+		$('.mysql').animate({width:'35%'},2000);
+		$('.bootstrap').animate({width:'40%'},2000);
+			});
